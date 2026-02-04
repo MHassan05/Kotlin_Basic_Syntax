@@ -8,8 +8,10 @@ This repository contains files which demonstrate basic syntax for Kotlin includi
 
 ## Dependencies
   
-Make sure to add dependencies in `build.gradle.kts` file 
-`implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")`
+Make sure to add dependencies in `build.gradle.kts` file   
+
+`implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")`  
+
 under `dependencies{}` section.  
 
 
